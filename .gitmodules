@@ -1,0 +1,4 @@
+[submodule "latest"]
+	path = latest
+	url = https://github.com/koczkatamas/kaitai_struct_webide
+	branch = devel
