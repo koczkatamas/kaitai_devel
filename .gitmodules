@@ -1,0 +1,4 @@
+[submodule "devel"]
+	path = devel
+	url = https://github.com/koczkatamas/kaitai_struct_webide
+	branch = devel
